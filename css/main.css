@@ -41,7 +41,9 @@ p {
     clear: both;
 }
 
-
+.grid-third {
+	margin-top: 1.5em;
+}
 @media (min-width: 768px) { /* styles for desktop */
 	
 	.grid {
